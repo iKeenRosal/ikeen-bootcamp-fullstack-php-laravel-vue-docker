@@ -12,7 +12,7 @@ The pace is realistic. The projects are fun. The challenges gradually build conf
 ## 📘 Full 8-Month Learning Guide (Printable PDF)
 Your complete companion book is included here:
 
-👉 **[Download: Learn Programming – Fullstack.pdf](https://docs.google.com/document/d/1K3Dns5n37pWZwbW-PwGwN8QwWJ9EkmoUebKppAnK1eo/edit?usp=sharing)**  
+👉 **[Download: Learn Programming and Development Environment Setup](https://docs.google.com/document/d/1K3Dns5n37pWZwbW-PwGwN8QwWJ9EkmoUebKppAnK1eo/edit?usp=sharing)**  
 *(Covers Month 0 – Month 8, with daily schedules, cheat sheets, project plans, and explanations)*
 
 ---
@@ -104,7 +104,7 @@ bootcamp-fullstack-php-laravel-vue-docker/
 ├── month07-vue-advanced/
 ├── month08-fullstack-projects/
 │
-└── Learn Programming - Fullstack.pdf
+└── Learn Programming and Development Environment Setup.pdf
 ```
 
 
@@ -113,8 +113,8 @@ bootcamp-fullstack-php-laravel-vue-docker/
 ## 🤝 How to Use This Repo
 1. **Download or clone the repository**  
    ```bash
-   git clone https://github.com/iKeenRosal/bootcamp-fullstack-php-laravel-vue-docker.git
-   cd bootcamp-fullstack-php-laravel-vue-docker
+   git clone https://github.com/iKeenRosal/ikeen-bootcamp-fullstack-php-laravel-vue-docker.git
+   cd ikeen-bootcamp-fullstack-php-laravel-vue-docker
    ```
 2. Follow Month 0 (Welcome Package in the PDF)
    - Install Docker Desktop
