@@ -12,7 +12,7 @@ The pace is realistic. The projects are fun. The challenges gradually build conf
 ## 📘 Full 8-Month Learning Guide (Printable PDF)
 Your complete companion book is included here:
 
-👉 **[Download: Learn Programming – Fullstack.pdf](<sandbox:/mnt/data/Learn Programming - Fullstack.pdf>)**  
+👉 **[Download: Learn Programming – Fullstack.pdf](https://docs.google.com/document/d/1K3Dns5n37pWZwbW-PwGwN8QwWJ9EkmoUebKppAnK1eo/edit?usp=sharing)**  
 *(Covers Month 0 – Month 8, with daily schedules, cheat sheets, project plans, and explanations)*
 
 ---
