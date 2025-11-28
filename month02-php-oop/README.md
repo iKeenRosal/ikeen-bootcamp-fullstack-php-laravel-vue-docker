@@ -1,2 +1,2 @@
 # Month 02 – PHP OOP
-Learn classes, objects, inheritance, interfaces, traits.
+Learn classes (abstract classes and dependency injections), objects, inheritance, interfaces, traits.
